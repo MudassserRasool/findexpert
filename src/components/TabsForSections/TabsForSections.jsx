@@ -48,7 +48,7 @@ const TabsForSections = () => {
                 lineHeight: "24px",
               }}
             >
-              {" "}
+             
               <p className={Style.tabItemsText}>All Forms</p>
             </Tab>
           </div>
