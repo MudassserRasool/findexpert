@@ -1,0 +1,15 @@
+.tabItemsText{
+    padding-left: 30px;
+    padding-right: 30px;
+    font-weight: bold;
+}
+
+.setBorder{
+    border: 1px solid lightgray;
+}
+
+.activeTab {
+    border-color: black;
+    border-bottom-width: 3px;
+  }
+  
