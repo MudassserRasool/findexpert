@@ -1,0 +1,100 @@
+.cardBody{
+margin: 100px;
+border: 0.5px solid lightgray;
+border-radius: 10px;
+padding: 20px;
+}
+
+/* start first section---------- */
+.imageAndHeadingRow{
+    display: flex;
+
+}
+
+.imgStyle{
+    width: 60px;
+    height: 60px;
+    border-radius: 50%;
+}
+
+.headingAndIncrement{
+    margin-left: 20px;
+}
+
+.frickelHeading{
+    font-size: 18px;
+    font-weight: 600;
+}
+.buttonIncrementalAndDecremental{
+    display: flex;
+    /* align-items: flex-start; */
+    align-items: center;
+}
+
+.decrementButton{
+    background-color: #AAAAAA;
+    width: 20px;
+    height: 20px;
+    border-radius: 2px;
+}
+.decrementIcon{
+    margin-top: 2px;
+    margin-left: 1.6px;
+}
+
+.buttonStatusText{
+    margin-left: 8px;
+    margin-right: 8px;
+    font-size: 20px;
+}
+.incrementButton{
+    background-color: #AAAAAA;
+    width: 20px;
+    height: 20px;
+    border-radius: 2px;
+}
+.incrementIcon{
+    margin-top: 2px;
+    margin-left: 1.9px; 
+}
+/* end first section---------- */
+
+/* start Appointment------------------ */
+
+/* end Appointment------------------ */
+.lowerContentArea{
+margin-top: 10px;
+/* display: flex; */
+
+}
+
+.aligenLeftItemsAndRightArrowIcon{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 15px;
+    /* background-color: aqua; */
+}
+
+
+.itemsHeadingsText{
+color: #7e7c7c;
+}
+.itemsText{
+    margin-left: 10px;
+}
+.iconAndTextRow{
+    display: flex;
+    align-items: center;
+}
+
+.dateInput{
+    margin-left: 10px;
+    margin-bottom: 3px;
+}
+
+.lineStyle{
+    margin-top: 15px;
+    /* padding-bottom: 10px; */
+    /* background-color: brown; */
+}
