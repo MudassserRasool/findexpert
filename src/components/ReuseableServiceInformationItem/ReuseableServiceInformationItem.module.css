@@ -1,0 +1,23 @@
+.aligenLeftItemsAndRightArrowIcon{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 15px;
+    /* background-color: aqua; */
+}
+
+.itemsHeadingsText{
+    color: #7e7c7c;
+    }
+    .itemsText{
+        margin-left: 10px;
+    }
+    .iconAndTextRow{
+        display: flex;
+        align-items: center;
+    }
+    
+    .textOfIconAligenment{
+        margin-left: 10px;
+        margin-bottom: 3px;
+    }
