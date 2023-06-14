@@ -1,0 +1,23 @@
+.uploadFileContainer{
+
+}
+
+.text{
+    color: gray;
+}
+.uploadBox{
+    width: 140px;
+    height: 90px;
+    margin-top: 10px;
+    border: 1px solid lightgray;
+    border-radius: 7px;
+}
+
+.iconAndText{
+    margin-left: 20px;
+    margin-top: 20px;
+}
+
+.icon{
+    margin-left: 35px;
+}

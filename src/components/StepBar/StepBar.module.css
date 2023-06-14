@@ -1,0 +1,43 @@
+/* Start circle--------- */
+.stepCirclesRow {
+  display: flex;
+  align-items: center;
+}
+
+.circleBoxRed {
+  background-color: RED;
+  width: 23px;
+  height: 23px;
+  border-radius: 50%;
+}
+
+.cirlcleIconArrangement {
+  margin: 2px;
+}
+
+.circleBoxWhite {
+  border: 2px solid red;
+  width: 23px;
+  height: 23px;
+  border-radius: 50%;
+}
+.stepBarText {
+  margin-left: 5.3px;
+  margin-top: -2.7px;
+  /* margin: auto; */
+  color: red;
+}
+/* End circle--------- */
+
+/* start line-----------*/
+
+.stepBarRedLine {
+  width: 40px;
+  margin-left: 10px;
+  margin-right: 10px;
+  border: none;
+  background-color: red;
+  height: 3px;
+  border-radius: 2px;
+}
+/* end line-----------*/

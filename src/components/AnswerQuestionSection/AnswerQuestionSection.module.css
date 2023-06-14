@@ -1,0 +1,11 @@
+.questionAnswerSection{
+    margin: 30px;
+}
+
+.answerQuestionHeading{
+    color: gray;
+}
+.colummnForQuestions{
+ display: grid;
+ grid-row-gap: 20px;
+}

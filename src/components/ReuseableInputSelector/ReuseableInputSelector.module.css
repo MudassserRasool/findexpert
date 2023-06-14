@@ -1,0 +1,40 @@
+.questionAnswerBox {
+    height: 65px;
+    border-radius: 10px;
+    border: 1px solid lightgray;
+    padding-left: 15px;
+  }
+  
+  .questionText {
+    margin-top: 7px;
+    color: gray;
+  }
+  
+  .selectorRow {
+    display: flex;
+    margin-top: 5px;
+  }
+  
+  .radioInputAnswer {
+    width: 18px; 
+    height: 18px; 
+  }
+
+
+  .selectorName{
+    margin-bottom: 50px;
+    margin-left: 10px;
+    width: 18px; 
+    height: 180px; 
+    /* background-color: blueviolet; */
+  }
+  .radioInputAnswer:checked {
+    background-color: red; /* Change the background color to red for the selected circles */
+  }
+  input[type='radio'] {
+    accent-color: #b90808;
+}
+  .radioInputAnswerRightSide {
+    margin-left: 80px;
+  }
+  

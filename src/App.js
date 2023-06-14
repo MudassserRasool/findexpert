@@ -4,6 +4,8 @@ import Selector from './components/Selector/Selector.jsx'
 import FreckleRemovalService from './components/ServiceInformation/ServiceInformation.jsx'
 import ReuseableFreckleRemovalServiceItem from './components/ReuseableServiceInformationItem/ReuseableServiceInformationItem.jsx'
 import ServiceInformation from './components/ServiceInformation/ServiceInformation.jsx'
+import StepBar from './components/StepBar/StepBar.jsx'
+import AnswerQuestionSection from './components/AnswerQuestionSection/AnswerQuestionSection.jsx'
 
 const App = () => {
   return (
@@ -11,8 +13,10 @@ const App = () => {
       {/* <TabsForSections/> */}
       {/* <Selector/> */}
       {/* <FreckleRemovalService/> */}
-      <ServiceInformation/>
+      {/* <ServiceInformation/> */}
       {/* <ReuseableFreckleRemovalServiceItem/> */}
+      {/* <StepBar/> */}
+      <AnswerQuestionSection/>
     </div>
   )
 }
